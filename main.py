@@ -1,0 +1,5 @@
+print("This is a app and it used for mathmetical use")
+Mass = input("Enter the mass: ")
+Hieght = input("Enter the hieght ")
+The_result = (9.8*int(Mass)*int(Hieght))
+print(The_result)
